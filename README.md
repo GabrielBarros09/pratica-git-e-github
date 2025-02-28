@@ -21,7 +21,7 @@ git add .
 3. Fazendo o commit
 
 ```bash
-git commit -m "Mensagem"
+git commit -m "Opa, aperta o play neymar, chama!"
 ```
 **Atenção!** Todo commit deve ter uma descrição (Obrigatório)
 
